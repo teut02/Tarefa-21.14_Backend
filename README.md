@@ -5,7 +5,7 @@ Este projeto demonstra como empacotar uma aplicação FastAPI utilizando Docker,
 ---
 
 ## Estrutura do Projeto
-```bash
+```
 fastapi-docker-poetry/
 ├── app/
 │ └── main.py # Arquivo principal da aplicação FastAPI
@@ -15,6 +15,7 @@ fastapi-docker-poetry/
 ├── poetry.lock # Lockfile gerado automaticamente
 ├── .env # Variáveis de ambiente (opcional)
 └── README.md # Instruções e documentação
+```
 
 ---
 
@@ -34,4 +35,3 @@ Antes de executar o projeto, você precisa ter instalado:
 ```bash
 git clone https://github.com/teut02/Tarefa-21.14_Backend.git
 cd fastapi-docker-poetry
-
