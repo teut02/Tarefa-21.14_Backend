@@ -5,9 +5,7 @@ Este projeto demonstra como empacotar uma aplicação FastAPI utilizando Docker,
 ---
 
 ## Estrutura do Projeto
-´´´
-bash
-´´´
+```bash
 fastapi-docker-poetry/
 ├── app/
 │ └── main.py # Arquivo principal da aplicação FastAPI
